@@ -1,5 +1,5 @@
 # Inference
-Inference is planned to be used as part of the Totality Sigma UI when uploading files.  As the name suggests, Inference will infer the structure and contents of the file without the end-user specifying the usual suspects (e.g. csv/tsv/fixed-width/...; column types:decimal/string/datetime; etc...).  The inferred results will be presented to the end-user for validation.
+Inference is planned to be used when uploading files.  As the name suggests, Inference will infer the structure and contents of the file without the end-user specifying the usual suspects (e.g. csv/tsv/fixed-width/...; column types:decimal/string/datetime; etc...).  The inferred results will be presented to the end-user for validation.
 
 ## Goals
 1. Pure JavaScript
